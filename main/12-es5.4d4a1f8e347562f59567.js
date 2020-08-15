@@ -1835,6 +1835,7 @@
 
       getQueryParams() {
         const params = lodash__WEBPACK_IMPORTED_MODULE_0__["merge"]({}, this.search);
+        params.page = 1;
 
         if (params.order_by.length != 0) {
           params.order_by = params.order_by.join(',');

@@ -1,6 +1,6 @@
 {
   "name": "BJ 앵지",
-  "version": "1.0.7.0",
+  "version": "1.0.8",
   "description": "[BJ 앵지] 방송시청, 영상다운로드, 커뮤니티",
   "content_security_policy": "script-src 'self' 'unsafe-eval' https://cdn.jsdelivr.net; object-src 'self';",
   "permissions": [
